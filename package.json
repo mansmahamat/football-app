@@ -52,6 +52,9 @@
     "tailwindcss": "^2.1.1"
   },
   "react-dotenv": {
-    "whitelist": ["REACT_APP_XRAPIDKEY", "REACT_APP_XRAPIDHOST"]
+    "whitelist": [
+      "REACT_APP_XRAPIDKEY",
+      "REACT_APP_XRAPIDHOST"
+    ]
   }
 }
